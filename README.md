@@ -1,7 +1,7 @@
 # TowerDefense-UE4
 Unreal Engine 4 project for a tower defense game
 
-**No os ralléis por estas cosas de aquí abajo compañeros, la borraré pronto. Es solo una lista recordatorio para que no se me olvide nada. Luego la borramos**
+**No os ralléis por estas cosas de aquí abajo compañeros, las borraré pronto. Es solo una lista recordatorio para que no se me olvide nada. Luego la borramos**
 
 No voy a subir nada de ningún proyecto todavía porque he estado haciendo pruebas y tengo dudas que preguntarle al profesor
 - ¿Se puede programar en BluePrints?
