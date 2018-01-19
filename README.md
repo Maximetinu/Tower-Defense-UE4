@@ -5,4 +5,4 @@ Play it! --> [Download Win64 build from Google Drive](https://drive.google.com/f
 )
 
 
-Made with Unreal Engine 4.18.1
+Made with Unreal Engine 4.18.1 (with only Blueprints, not C++)
